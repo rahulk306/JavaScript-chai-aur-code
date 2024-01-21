@@ -1,8 +1,8 @@
-// primitive -> call by value hota hai jb kbhi bhi inko copy keya jata hai
+// primitive -> call by value hota hai jb kbhi bhi inko copy keya jata hai -> static allocation hota hai -> stack
 
 // 7 types : String, Number, Boolean, null, undefined(variable declared hai but value kon sa dalna hai ye decided nhi hai), Symbol(value ko unique bnane ke leye use krte hai), BigInt(bade data to hold krne ke leye use krte hai)
 
-// Reference (Non primitive)
+// Reference (Non primitive) -> dynamic allocation hota hai -> heap
 
 // Array, Objects, Functions
 
